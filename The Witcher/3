@@ -1,0 +1,137 @@
+Core Tools & Frameworks:
+
+Script Merger
+Merges conflicting .xml and .ws files. Essential for compatibility in large modlists.
+
+Mod Limit Fix
+Fixes the mod limit crash issue by increasing the mod memory limit (needed for >50 mods).
+
+Community Patch - Base
+Foundation patch that fixes scripting and mod compatibility for v4.0+. Required by many mods.
+
+Witcher 3 Mod Manager (W3MM)
+Easy-to-use manager that organizes load order and merges scripts visually.
+
+Menu Strings Fix
+Fixes broken mod option names in the in-game menu (needed for some UI mods on 4.0+).
+
+
+
+
+Combat & Gameplay Overhauls:
+
+Combat Enhanced (Redux)
+Reworks dodging, parrying, and stagger. Adds hit reactions and better damage scaling.
+
+Witcher 3 Redux
+Balanced overhaul of combat, potions, signs, stamina, and progression. Lore-respecting.
+
+FCR3 – Full Combat Rebalance 3 (Next-Gen Port)
+Legendary overhaul by a Witcher 3 dev. Rebalances everything from attack speed to oils and bombs.
+
+Improved Sign Effects NG
+Makes sign casting smoother, adds visuals and better hit detection for Igni, Aard, etc.
+
+Enhanced Enemy AI (Next-Gen)
+Smarter AI that blocks, flanks, uses signs, and doesn’t blindly rush Geralt.
+
+
+
+
+RPG Systems & Immersion:
+
+Preparations Mod
+Forces you to meditate to apply oils, potions, and bombs — deepens alchemy roleplay.
+
+Friendly Meditation
+Replaces the menu with a real-time meditation sequence, showing time passing in-game.
+
+Next Gen Friendly HUD
+Customizable HUD that can hide elements, change layouts, and increase immersion.
+
+Jump in Shallow Water (Next Gen)
+Fixes that annoying issue where Geralt refuses to jump in shallow water.
+
+Travel from Anywhere (NG)
+Lets you fast travel from anywhere, not just signposts.
+
+
+
+
+Magic, Alchemy & Signs:
+
+Magic Spells for Signs
+Adds new sign variants and magical attacks — chain lightning, vortexes, spectral blades.
+
+Sign Tweaks and Balance
+Tweaks Quen, Axii, Yrden to scale better and reduce exploitability.
+
+Better Mutations
+Buffs underused mutations and balances Euphoria builds. Scales with difficulty.
+
+
+
+
+Visuals & Graphics:
+
+Phoenix Lighting Mod (NG Compatible)
+Restores a vibrant, enhanced lighting atmosphere based on E3 trailers.
+
+HD Reworked Project Next Gen
+The definitive texture overhaul — rocks, walls, armor, terrain. Now officially included in 4.0, but mod version improves even more.
+
+HD Monsters Reworked (NG Port)
+Overhauls creature textures and models — Leshens, Griffins, and more look terrifying.
+
+Witcher 3 HD Trees Next Gen
+High-quality foliage, leaves, tree models. Very performance-friendly.
+
+Improved Particle Systems
+Fixes and upgrades fire, smoke, dust, sparks, and spell effects.
+
+
+
+
+UI & Quality of Life:
+
+All Quest Objectives on Map
+Shows all quest locations instead of just one at a time.
+
+Better Minimap and Compass
+Rotating minimap, custom compass, better visibility of markers.
+
+AutoLoot (Next Gen)
+Automatically loots everything within radius. Configurable by item type.
+
+Slots Slots SLOTS (NG)
+Allows more than 12 skill slots and enables multiple mutations. Fully customizable.
+
+Sort Everything (NG)
+Sorts inventory items by type, name, rarity, or value.
+
+Better Icons
+Clean, color-coded, high-resolution item and gear icons.
+
+
+
+
+
+Immersion Mods:
+
+Witcher Beard Rework
+More natural beards that grow in stages and don’t clip into armor.
+
+Immersive Sounds NG
+Better environment sounds, footsteps, sword clashes, weather ambiance.
+
+Random Encounters Reworked
+Adds bandits, beast ambushes, and dynamic combat encounters while exploring.
+
+Modding Tools & Resources
+Script Merger / W3MM — for managing conflicts and enabling complex load orders.
+
+ModKit — for making or editing your own mods.
+
+WolvenKit — full-featured modding toolkit with Next-Gen support.
+
+Mod Limit Fix — always required for large lists.
