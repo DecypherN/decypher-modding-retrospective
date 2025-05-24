@@ -1,4 +1,23 @@
-Combat & Gameplay
+Combat & Gameplay:
+
+Valravn – Integrated Combat of Skyrim
+A well-balanced overhaul combining realism and responsiveness — armor makes you tougher, but stamina and positioning still matter.
+
+SCAR – Skyrim Combos AI Revolution
+Enemies use combos and react more intelligently to your moves — fighting a bandit can feel like dueling a real opponent.
+
+Inpa Sekiro Combat / The Ultimate Dodge Mod (TUDM)
+Soulslike dodging and posture systems, plus timed parries. Makes melee builds incredibly satisfying.
+
+True Directional Movement
+Breaks free from Skyrim’s clunky combat camera — you can move and attack freely in all directions with lock-on targeting.
+
+Precision
+Hitboxes are now… actually accurate. Stop stabbing air and missing enemies right in front of you.
+
+Mortal Enemies / Attack Commitment
+Eliminates enemy aimbot behavior and adds weighty, committed animations to melee.
+
 Ordinator / Adamant / Vokrii
 Completely revamps the perk trees so you’re not stuck with boring vanilla perks. Make your stealth archer, tank, mage, or hybrid feel unique with hundreds of new perks.
 
@@ -11,7 +30,10 @@ Adds dodging, weapon reach tweaks, stamina management, and mid-air spellcasting,
 Morrowloot Ultimate
 Loot feels rare and valuable again — you can’t just grab a sword from a bandit and suddenly be OP. Makes exploring dungeons and hunting meaningful.
 
-Magic & Spells
+
+
+Magic & Spells:
+
 Apocalypse / Arcanum / Mysticism
 Adds hundreds of new spells, from elemental blasts to soul manipulation. Makes playing a mage way more exciting and diverse.
 
@@ -21,7 +43,22 @@ Makes dragon shouts feel powerful and customizable, adding new shout effects and
 Spell Research
 A cool system where you can “discover” spells by combining ingredients and experimenting. Feels like you’re actually inventing magic.
 
-Immersion & Survival
+Forgotten Magic Redone
+Add spells that evolve over time based on how you use them — customizable, powerful, and progression-based.
+
+Phenderix Magic Evolved
+Over 400 wild new spells — ride storms, rain down meteors, summon dimensional rifts. Absolute chaos, in a good way.
+
+Triumvirate – Mage Archetypes
+Play as a classic D&D-style druid, shaman, or warlock — each with their own spell lists and mechanics.
+
+Smart Cast / Spell Wheel VR
+Auto-cast buffs, quick-access your spell arsenal — especially useful if you like playing mages without clunky menus.
+
+
+
+Immersion & Survival:
+
 Campfire / Frostfall
 Hardcore survival mods that make Skyrim feel harsh — you need to keep warm, set up camp, and manage exposure to cold and weather.
 
@@ -34,7 +71,34 @@ No more boring starts in Helgen. Pick your own backstory and starting location t
 Sounds of Skyrim / Audio Overhaul
 Rich, layered ambient sounds — wind, birds, wildlife, townspeople chatter — that make the world feel alive and immersive.
 
-Visuals & Graphics
+Hunterborn
+Looting an animal becomes an interactive process — skin, butcher, harvest organs. Makes hunting a real profession.
+
+Wearable Lanterns / Chesko’s Lanterns of Skyrim
+No more night blindness — equip lanterns that react to your movement and light up dungeons.
+
+Realistic Lighting Overhaul / ELE
+Caves are pitch black without a torch, towns glow warmly at night — lighting is immersive and dangerous.
+
+Beyond Skyrim: Bruma
+An entirely new region to explore with full voice acting, quests, cities, and landscapes — and lore-friendly as hell.
+
+
+
+Visuals & Graphics:
+
+Lux / Lux Via / Lux Orbis
+A modern lighting system overhaul for interiors, dungeons, and exteriors — cinematic and performance-friendly.
+
+EVLaS (Enhanced Volumetric Lighting and Shadows)
+Adds soft shadows and god rays that dynamically react to light sources.
+
+Veydosebrom / Cathedral 3D Pine Grass / Happy Little Trees
+Redesigned flora mods — Skyrim looks like a natural, wild, forested land again.
+
+Enhanced Lights and FX (ELFX)
+Adds dynamic shadows, flickering fires, and weather-sensitive lighting effects.
+
 ENB Presets (Rudy, Silent Horizons, etc.)
 Add realistic lighting, shadows, bloom, and weather effects that turn Skyrim into a breathtaking world.
 
@@ -47,7 +111,22 @@ Fixes ugly low-poly models — sharper furniture, weapons, flora, and general en
 Realistic Water Two / Obsidian Weathers
 Gorgeous water effects with reflections and waves, plus dynamic weather systems for truly atmospheric skies.
 
-Quality of Life & Gameplay Tweaks
+
+
+Quality of Life & Gameplay Tweaks:
+
+SkyUI / Nordic UI / Dear Diary Dark Mode
+Modern UI mods that clean up the messy vanilla interface — smooth, functional, and beautiful.
+
+TrueHUD / Experience / SmoothCam
+Customize your HUD, gain XP for exploring/reading, and enjoy buttery third-person camera movement.
+
+Skyrim Souls / Quick Loot RE / Better MessageBox Controls
+Menus are no longer frozen in time — looting, dialogues, and UI behave more like a modern RPG.
+
+Smart Training
+Prevents trainers from being a gold sink — training gives skill XP, but you must meet requirements and find good teachers.
+
 Immersive Citizens AI Overhaul
 NPCs behave more naturally — they run from danger, have schedules, interact with the world, and feel more alive.
 
@@ -60,11 +139,98 @@ More visceral combat with realistic blood splatter, wounds, and gore effects.
 Quick Loot / Better Dialogue Controls
 Speeds up looting and dialogue interactions, cutting down on tedium.
 
-Modding Tools
+
+
+🏰 Housing & Roleplay
+Legacy of the Dragonborn
+The ultimate museum and collectible mod — build your own gallery, curate relics, and start a related questline.
+
+JK’s Interiors / Cities of the North
+Massive overhauls for interiors and towns — cozy, detailed, lived-in environments.
+
+Hearthfire Multiple Adoptions / My Home is Your Home
+Expanded family and follower housing systems — make Skyrim truly feel like home.
+
+The Notice Board / Missives / Radiant Quest Overhaul
+Adds tons of organic, varied side quests across Skyrim for bounty hunting, courier work, and more.
+
+
+
+Worldbuilding & Quests:
+
+Interesting NPCs
+Over 250 new characters with full voice acting, deep stories, and unique questlines.
+
+The Forgotten City / Unslaad / Project AHO / Clockwork / Wyrmstooth / Helgen Reborn
+Massive, high-quality quest mods. Some feel like standalone games.
+
+Skyrim Underground
+An entirely new, creepy underworld beneath Skyrim — filled with secrets, monsters, and lore.
+
+Carriage and Ferry Travel Overhaul
+Actually lets you travel between towns realistically with immersive options and events on the road.
+
+
+Modding Tools:
+
 Mod Organizer 2 (MO2)
 The ultimate mod manager — lets you organize, test, and tweak thousands of mods with zero hassle.
 
 xEdit / DynDOLOD / Wrye Bash / LOOT / Nemesis
 Essential tools for patching, load order sorting, LOD generation, and animation management — kept everything stable and crash-free.
 
+
+SKSE: (Script extender)
+
+SKSE & Core Requirements
+SKSE64 – Skyrim Script Extender
+Foundation for script-heavy mods. Must match your Skyrim version exactly.
+Launch via skse64_loader.exe or through Mod Organizer 2.
+
+Address Library for SKSE Plugins
+Compatibility layer for SKSE plugins across Skyrim versions.
+Two versions: one for Skyrim AE (post-1.6) and one for SE (1.5.x).
+
+SKSE Plugin Frameworks
+powerofthree’s Tweaks
+Adds modern scripting functions and fixes vanilla limitations. Required by many current mods.
+
+PapyrusUtil
+Enables persistent data and complex scripts. Required for mods like Frostfall, Campfire, Spell Research, etc.
+
+MCM Helper
+Improves Mod Configuration Menu usability. Speeds up setup and config for MCM-based mods.
+
+JContainers
+Provides advanced scripting features (arrays, persistent storage, JSON-like behavior). Used by Spell Research and more.
+
+Engine & Stability Fixes
+SSE Engine Fixes (Part 1 and 2)
+Critical for performance and crash prevention. Fixes threading, memory, and papyrus bugs.
+Requires Address Library, SKSE, and the included TBB.dll.
+
+Bug Fixes SSE
+Fixes dozens of vanilla bugs that affect quests, combat, and scripting.
+
+Scrambled Bugs
+Fixes internal bugs in magic effects, conditions, perk entries, and more. Highly customizable via INI.
+
+Heap Limit Adjuster / Scaleform Allocator
+Prevents crashes caused by memory overflows in the UI engine. Optional but useful in heavy setups.
+
+Animation & Gameplay Systems
+Nemesis Unlimited Behavior Engine
+Required for advanced animation mods like CGO, TUDM, and SCAR. Replaces FNIS.
+
+Payload Interpreter
+Enables animation-driven gameplay logic, like combo triggers or effect-based attacks.
+
+Animation Motion Revolution (AMR)
+Adds momentum and fluidity to animations. Often used with custom weapon stances and movement.
+
+True Directional Movement (TDM)
+Adds lock-on targeting, full 360-degree movement, head tracking, and custom crosshairs. Major third-person overhaul.
+
+Open Animation Replacer (OAR)
+Modern animation system replacement for DAR. Assign animations to specific conditions like race, armor, or combat state.
 
