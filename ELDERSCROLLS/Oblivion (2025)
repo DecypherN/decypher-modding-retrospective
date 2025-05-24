@@ -1,1 +1,148 @@
+OBLIVION MODS (2025 VERSION)
+A modern, stable, and immersive overhaul of Oblivion — packed with bug fixes, gameplay expansions, visual upgrades, and modding tools.
 
+Core Fixes & Frameworks:
+
+OBSE / xOBSE (Oblivion Script Extender)
+Enables advanced scripting. Required by most gameplay and UI mods.
+Use xOBSE — it's the updated and maintained fork.
+
+EngineBugFixes
+Fixes deep engine-level issues like crashes, heap corruption, and memory handling.
+
+Unofficial Oblivion Patch (UOP)
+Fixes thousands of bugs — quests, scripts, AI, items, and more. Absolutely essential.
+
+ENBoost for Oblivion
+Memory optimization and crash prevention. Required for stability with heavy visual mods.
+
+TES4LODGen / TES4Edit
+Tools for cleaning plugins and generating LODs for stable load orders.
+
+
+
+
+Visuals & Graphics:
+
+Oblivion Reloaded (OR 8+)
+Complete graphical overhaul: dynamic shadows, SSAO, weather effects, depth of field, and more. Requires tuning.
+
+Oblivion Upscaled Textures Project (OUTP)
+AI-upscaled textures for the base game — sharpens everything without replacing the style.
+
+Qarl's Texture Pack III Redimized
+Classic HD retexture — updated version with smaller file size and better performance.
+
+Better Cities
+Massive city overhauls with improved architecture, clutter, and NPC routines.
+
+Unique Landscapes Compilation
+Beautifully redesigns large chunks of the world — forests, coasts, swamps, and mountains.
+
+Realistic Water
+Improved water textures and reflections.
+
+Improved Trees and Flora
+Higher-res trees, bushes, and grass.
+
+
+
+
+Gameplay Overhauls:
+
+Oblivion XP Update
+Replaces the vanilla level-up system with experience points. Gain XP from quests, combat, exploration, etc.
+
+Maskar's Oblivion Overhaul (MOO)
+Huge gameplay overhaul: dynamic loot, smarter enemy scaling, enhanced AI, equipment variety, and more.
+
+Oscuro’s Oblivion Overhaul (OOO) 1.5+
+Classic overhaul with slower leveling, tougher enemies, rare loot, and handcrafted dungeon design.
+
+Deadly Reflex 6
+Adds dodge rolls, slow-mo kills, combat injuries, and advanced melee mechanics.
+
+Oblivion Combat Enhanced
+Improves hit detection, adds stuns and stagger effects, and makes combat more responsive.
+
+Basic Primary Needs
+Hunger, thirst, and sleep mechanics. Lightweight and modular.
+
+Real Sleep Extended
+Adds sleeping requirements, sleep deprivation penalties, and immersive dreams.
+
+
+
+Magic & Spells:
+
+Supreme Magicka
+Expands spellcasting — toggleable spell types, dynamic spell scaling, more summons, and balance fixes.
+
+Midas Magic Spells of Aurum
+Adds over 100 custom spells — summon meteors, ride storm clouds, cast golden fireballs.
+
+LAME – Less Annoying Magic Experience
+Improves magic effectiveness, duration, scaling, and reduces tedium of spell mechanics.
+
+Spell Delete and Spell Renamer
+Lets you manage your spellbook — delete or rename spells via menus.
+
+
+
+
+Immersion & Roleplay:
+
+Immersive Interiors
+Makes windows show the actual outdoor world from inside buildings — no more painted-on windows.
+
+All Natural – Weather and Lighting
+Dynamic interior/exterior lighting, natural weather transitions, configurable lighting system.
+
+Dynamic Map
+Makes the world map reflect actual terrain changes (like Unique Landscapes).
+
+No Psychic Guards
+Removes guards' omniscient crime detection. Crime must be seen and heard.
+
+Enhanced Camera
+First-person body awareness — see your body when looking down, during animations, etc.
+
+Alternate Start Revamped
+Choose a new origin — begin as a bandit, necromancer, noble, or peasant. Skip the prison tutorial.
+
+User Interface & Quality of Life
+DarNified UI
+Custom, scalable UI with more information on-screen and better inventory management.
+
+OBSE - Enhanced Hotkeys
+Lets you assign complex macros and functions to hotkeys.
+
+Map Marker Overhaul
+Lets you rename, recolor, and categorize map markers.
+
+QuickStart
+Skips all startup videos and splash screens. Launches straight to main menu.
+
+Blockhead
+Required for face-based scripting and mods that add unique head features (e.g., age-based texture changes).
+
+
+
+Modding Tools:
+
+Vortex Mod Organiser (Easiest UI and suer easy to use)
+
+Mod Organizer 2 (supports Oblivion)
+The best mod manager for load order control, profiles, and clean installations.
+
+Wrye Bash
+Used for creating a Bashed Patch to merge leveled lists and mod conflicts.
+
+LOOT
+Automatically sorts your load order and identifies missing masters or conflicts.
+
+TES4Edit
+Essential for cleaning mods and resolving conflicts manually.
+
+TES4LODGen
+Generates distant terrain visuals (LOD).
